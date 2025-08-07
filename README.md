@@ -1,2 +1,2 @@
-This is my firsht project
-Auther - Manish
+This is my first project.
+Author - Manish Kumar Singh
